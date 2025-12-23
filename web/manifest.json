@@ -1,6 +1,6 @@
 {
-    "name": "sante",
-    "short_name": "sante",
+    "name": "flutter_namer_app",
+    "short_name": "flutter_namer_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -5,18 +5,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "sante",
+      "name": "flutter_namer_app",
       "request": "launch",
       "type": "dart"
     },
     {
-      "name": "sante (profile mode)",
+      "name": "flutter_namer_app (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-      "name": "sante (release mode)",
+      "name": "flutter_namer_app (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release"
